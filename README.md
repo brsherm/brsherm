@@ -1,6 +1,6 @@
 ### breese's cool github
 
-[itsbreese.com](itsbreese.com)
+[https://itsbreese.com](itsbreese.com)
 
 <!--
 **brsherm/brsherm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
